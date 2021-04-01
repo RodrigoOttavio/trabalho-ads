@@ -12,9 +12,9 @@ reservados para pesca e fornecer sugestões ao mercado de pesca.</p>
 - [TypeScript] (https://www.typescriptlang.org/)
 
 ## Autores
-[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Rodrigo Ottávio </sub>](https://github.com/RodrigoOttavio)|
+[<img src="https://github.com/RodrigoOttavio/trabalho-ads/blob/master/img/rodrigo.jpeg" width=115 align="left" hspace="20"> <br> <sub> Rodrigo Ottávio </sub>](https://github.com/RodrigoOttavio)
 
-[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Luiz Henrique </sub>](https://github.com/Luiz-web)|
+[<img src="https://github.com/RodrigoOttavio/trabalho-ads/blob/master/img/luiz.jpg" width=115 align="left" hspace="20"> <br> <sub> Luiz Henrique </sub>](https://github.com/Luiz-web)
 
-[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Adriano Jr Melo </sub>](https://github.com/Adrianojuniormelo)|
+[<img src="https://github.com/RodrigoOttavio/trabalho-ads/blob/master/img/adriano.jpeg" width=115 align="left" hspace="20"> <br> <sub> Adriano Jr Melo </sub>](https://github.com/Adrianojuniormelo)
 
