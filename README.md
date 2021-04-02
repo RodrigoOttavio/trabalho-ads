@@ -12,9 +12,11 @@ reservados para pesca e fornecer sugestões ao mercado de pesca.</p>
 - [TypeScript] (https://www.typescriptlang.org/)
 
 ## Autores
-[<img src="https://github.com/RodrigoOttavio/trabalho-ads/blob/master/img/rodrigo.jpeg" width=115 align="left" hspace="20"> <br> <sub> Rodrigo Ottávio </sub>](https://github.com/RodrigoOttavio)
-
-[<img src="https://github.com/RodrigoOttavio/trabalho-ads/blob/master/img/luiz.jpg" width=115 align="left" hspace="20"> <br> <sub> Luiz Henrique </sub>](https://github.com/Luiz-web)
-
-[<img src="https://github.com/RodrigoOttavio/trabalho-ads/blob/master/img/adriano.jpeg" width=115 align="left" hspace="20"> <br> <sub> Adriano Jr Melo </sub>](https://github.com/Adrianojuniormelo)
+<table>
+        <tr>
+          <td align="center"><img src="https://github.com/RodrigoOttavio/trabalho-ads/blob/master/img/rodrigo.jpeg" width="115px;" alt=""/><br /><sub><a href="https://github.com/RodrigoOttavio" target="_blank"><b>Rodrigo</b></a></sub></td>
+          <td align="center"><img src="https://github.com/RodrigoOttavio/trabalho-ads/blob/master/img/luiz.jpg" width="115px;" alt=""/><br /><sub><a href="https://github.com/Luiz-web" target="_blank"><b>Luiz</b></a></sub></td>
+          <td align="center"><img src="https://github.com/RodrigoOttavio/trabalho-ads/blob/master/img/adriano.jpeg" width="115px;" alt=""/><br /><sub><a href="https://github.com/Adrianojuniormelo" target="_blank"><b>Adriano</b></a></sub></td>
+        </tr>
+</table>    
 
