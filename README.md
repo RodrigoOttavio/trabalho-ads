@@ -9,10 +9,10 @@ reservados para pesca e fornecer sugestões ao mercado de pesca.</p>
 # Status do Projeto 
  <p>Em desenvolvimento :warning:</p>
 
-# Índice/Sumário
+# Sumário
 * [Sobre](#sobre-o-projeto)
 * [Status](#status-do-projeto)
-* [Sumário](#índice/sumário)
+* [Sumário](#sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Tecnologias Usadas](#Linguagens-utilizadas)
 * [Contribuição](#contribuição)
