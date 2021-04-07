@@ -1,7 +1,7 @@
 # Trabalho-ads-3°periodo :clipboard:
 <img src ="https://github.com/RodrigoOttavio/trabalho-ads/blob/master/img/agua.png">
 
-# Sobre o Projeto :clipboard:
+# Sobre o Projeto
 ### Tema: Vida na água
 <p align="left">Este é um projeto para proporcionar acessibilidade aos pescadores de pequena escala a locais 
 reservados para pesca e fornecer sugestões ao mercado de pesca.</p>
@@ -9,7 +9,7 @@ reservados para pesca e fornecer sugestões ao mercado de pesca.</p>
 # Status do Projeto 
  <p>Em desenvolvimento :warning:</p>
 
-# Indíce/Sumário
+# Índice/Sumário
 * [Sobre](#sobre-o-projeto)
 * [Status](#status-do-projeto)
 * [Sumário](#índice/sumário)
@@ -56,4 +56,4 @@ reservados para pesca e fornecer sugestões ao mercado de pesca.</p>
 <a href="https://github.com/RodrigoOttavio/trabalho-ads/blob/master/LICENSE.md">MIT</a>
 
 # Agradecimentos
-<p><strong>Rodrigo O.:</strong>Agradeço ao comprometimento e dedicação de cada integrante do meu grupo desde o dia de escolher o tema do projeto ate o dia de entrega do trabalho!!</p>
+<p><strong>Rodrigo O.:</strong> Agradeço ao comprometimento e dedicação de cada integrante do meu grupo desde o dia de escolher o tema do projeto ate o dia de entrega do trabalho!!</p>
