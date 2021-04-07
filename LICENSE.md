@@ -1,6 +1,6 @@
 A Licença MIT (MIT)
 
-Copyright (c) 2015-presente Dan Abramov
+Copyright (c) 2021-presente Dan Abramov
 
 A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e arquivos de documentação associados (o "Software"), para lidar com o Software sem restrição, incluindo, sem limitação, os direitos de usar, copiar, modificar, mesclar , publicar, distribuir, sublicenciar e / ou vender cópias do Software e permitir que as pessoas a quem o Software é fornecido o façam, sujeito às seguintes condições:
 
