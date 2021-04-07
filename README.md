@@ -10,13 +10,13 @@ reservados para pesca e fornecer sugestões ao mercado de pesca.</p>
  <p>Em desenvolvimento :warning:</p>
 
 # Indíce/Sumário :pushpin:
-* [Sobre](#sobre-o-projeto-:clipboard:)
+* [Sobre](#sobre-o-projeto)
 * [Status](#status-do-projeto)
-* [Sumário](#índice/sumário-:pushpin:)
+* [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
-* [Tecnologias Usadas](#Linguagens-utilizadas-:books:)
+* [Tecnologias Usadas](#Linguagens-utilizadas)
 * [Contribuição](#contribuição)
-* [Autores](#autores-:computer::floppy_disk:)
+* [Autores](#autores)
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
 
