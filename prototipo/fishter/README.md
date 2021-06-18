@@ -10,7 +10,7 @@
 <p align="justify">Creio que terá mais problemas notáveis que não mencionei nesse breve texto, mas o que trouxe mais dificuldade foi implantar a API do google Maps.Mas no fim conseguimos pelo menos fazer ela funcionar para nos trazer uma interação de mapa no nosso simples aplicativo. </p>
 
 # Status do Projeto 
- <p>Em desenvolvimento :heavy_check_mark:</p>
+ <p>Concluído :heavy_check_mark:</p>
  <p>Por enquanto...</p>
 
  # Sumário
